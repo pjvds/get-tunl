@@ -3,5 +3,3 @@
   from = "/*"
   to = "/install.sh"
 
-/install.sh
-  Content-Type: text/plain
